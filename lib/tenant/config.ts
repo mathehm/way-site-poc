@@ -30,7 +30,6 @@ export const tenants: TenantConfig[] = [
     hosts: [
       "igreja-a.sua-plataforma.com",
       "igreja-a.lvh.me",
-      "way-site-poc.vercel.app", // Domínio padrão da Vercel
     ],
     theme: {
       primary: "#2563eb",
@@ -68,6 +67,7 @@ export const tenants: TenantConfig[] = [
       "www.igreja-vida.com.br",
       "igreja-vida.com.br",
       "vida.lvh.me",
+      "way-site-poc.vercel.app", // Domínio padrão da Vercel
     ],
     theme: {
       primary: "#7c3aed",
